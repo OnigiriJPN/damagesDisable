@@ -1,0 +1,10 @@
+{
+  "minecraft:damage": {
+    "sounds": [
+      {
+        "name": "empty",
+        "stream": false
+      }
+    ]
+  }
+}
